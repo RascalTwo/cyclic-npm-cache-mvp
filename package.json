@@ -2,6 +2,7 @@
   "name": "cyclic-npm-cache-mvp",
   "version": "1.0.0",
   "scripts": {
-    "start": "echo \"Error: no start specified\" && exit 1"
+    "start": "cd nested && npm run start --loglevel=silly",
+    "postinstall": "cd nested && npm install"
   }
 }
