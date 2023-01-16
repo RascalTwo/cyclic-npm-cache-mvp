@@ -1,0 +1,158 @@
+GET/abc/def/ghi
+ Request Headers
+
+{
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.5",
+  "cache-control": "no-cache",
+  "content-length": "0",
+  "dnt": "1",
+  "host": "pleasant-lion-polo-shirt.cyclic.app",
+  "pragma": "no-cache",
+  "sec-fetch-dest": "document",
+  "sec-fetch-mode": "navigate",
+  "sec-fetch-site": "none",
+  "sec-fetch-user": "?1",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0",
+  "x-amzn-trace-id": "Root=1-63c5678b-1f98be9f04c01dc15faa8ef3",
+  "x-forwarded-port": "443",
+  "x-forwarded-proto": "https"
+}
+
+2023-01-16 10:04:46.203: npm
+2023-01-16 10:04:46.203:  
+2023-01-16 10:04:46.203: verb
+2023-01-16 10:04:46.204:  
+2023-01-16 10:04:46.205: cli
+2023-01-16 10:04:46.205:  /var/lang/bin/node /var/lang/bin/npm
+2023-01-16 10:04:46.205: npm info using npm@8.19.2
+2023-01-16 10:04:46.205: npm 
+2023-01-16 10:04:46.206: npm timing
+2023-01-16 10:04:46.206: info using node@v18.12.1
+npm timing npm:load:whichnode Completed in 0ms
+2023-01-16 10:04:46.222:  config:load:defaults Completed in 2ms
+npm timing config:load:file:/var/lang/lib/node_modules/npm/npmrc Completed in 1ms
+npm timing config:load:builtin Completed in 1ms
+npm timing config:load:cli Completed in 38ms
+npm timing config:load:env Completed in 1ms
+npm timing config:load:file:/var/task/nested/.npmrc Completed in 24ms
+npm timing config:load:project Completed in 24ms
+npm timing config:load:file:/home/sbx_user1051/.npmrc Completed in 0ms
+npm timing config:load:user Completed in 0ms
+npm timing config:load:file:/var/lang/etc/npmrc Completed in 12ms
+npm timing config:load:global Completed in 13ms
+npm timing config:load:validate Completed in 1ms
+npm timing config:load:credentials Completed in 1ms
+npm timing config:load:setEnvs Completed in 0ms
+npm timing config:load Completed in 83ms
+npm timing npm:load:configload Completed in 95ms
+npm verb cache could not create cache: Error: ENOENT: no such file or directory, mkdir '/home/sbx_user1051'
+npm timing npm:load:mkdirpcache Completed in 1ms
+npm verb logfile could not create logs-dir: Error: ENOENT: no such file or directory, mkdir '/home/sbx_user1051'
+npm timing npm:load:mkdirplogs Completed in 0ms
+npm verb title npm run start
+npm verb argv "--prefix" "nested" "run" "start" "--loglevel" "silly"
+npm timing npm:load:setTitle Completed in 2ms
+npm timing config:load:flatten Completed in 15ms
+npm timing npm:load:display Completed in 35ms
+npm verb logfile logs-max:10 dir:/home/sbx_user1051/.npm/_logs
+2023-01-16 10:04:46.222: npm verb logfile could not be created: Error: ENOENT: no such file or directory, open '/home/sbx_user1051/.npm/_logs/2023-01-16T15_04_46_084Z-debug-0.log'
+2023-01-16 10:04:46.226: npm verb 
+2023-01-16 10:04:46.226: logfile no logfile created
+npm timing npm:load:logFile Completed in 5ms
+2023-01-16 10:04:46.226: npm timing 
+2023-01-16 10:04:46.240: npm:load:timers Completed in 0ms
+2023-01-16 10:04:46.245: npm
+2023-01-16 10:04:46.245:  
+2023-01-16 10:04:46.245: timing
+2023-01-16 10:04:46.246:  
+2023-01-16 10:04:46.265: npm:load:configScope Completed in 19ms
+npm timing npm:load Completed in 174ms
+2023-01-16 10:04:46.300: npm
+2023-01-16 10:04:46.301:  
+2023-01-16 10:04:46.301: sill
+2023-01-16 10:04:46.302:  
+2023-01-16 10:04:46.302: logfile
+2023-01-16 10:04:46.302:  done cleaning log files
+2023-01-16 10:04:46.441: 
+> nested@1.0.0 start
+> node index.js
+
+2023-01-16 10:04:46.767: npm
+2023-01-16 10:04:46.767:  
+2023-01-16 10:04:46.767: verb
+2023-01-16 10:04:46.767:  
+2023-01-16 10:04:46.767: stack
+2023-01-16 10:04:46.767:  Error: EROFS: read-only file system, mkdir '/home/sbx_user1051'
+2023-01-16 10:04:46.767: npm
+2023-01-16 10:04:46.780:  
+2023-01-16 10:04:46.780: verb
+2023-01-16 10:04:46.781:  
+2023-01-16 10:04:46.781: cwd
+2023-01-16 10:04:46.781:  /var/task
+2023-01-16 10:04:46.781: npm
+2023-01-16 10:04:46.781:  
+2023-01-16 10:04:46.781: verb
+2023-01-16 10:04:46.782:  Linux 4.14.255-285-225.501.amzn2.x86_64
+2023-01-16 10:04:46.782: npm
+2023-01-16 10:04:46.782:  
+2023-01-16 10:04:46.782: verb
+2023-01-16 10:04:46.782:  
+2023-01-16 10:04:46.782: node
+2023-01-16 10:04:46.783:  v18.12.1
+2023-01-16 10:04:46.783: npm
+2023-01-16 10:04:46.783:  
+2023-01-16 10:04:46.783: verb
+2023-01-16 10:04:46.783:  
+2023-01-16 10:04:46.783: npm 
+2023-01-16 10:04:46.783:  v8.19.2
+2023-01-16 10:04:46.784: npm
+2023-01-16 10:04:46.784:  
+2023-01-16 10:04:46.784: ERR!
+2023-01-16 10:04:46.784:  
+2023-01-16 10:04:46.784: code
+2023-01-16 10:04:46.785:  EROFS
+2023-01-16 10:04:46.801: npm
+2023-01-16 10:04:46.801:  
+2023-01-16 10:04:46.801: ERR!
+2023-01-16 10:04:46.801:  
+2023-01-16 10:04:46.801: syscall
+2023-01-16 10:04:46.801:  mkdir
+2023-01-16 10:04:46.802: npm
+2023-01-16 10:04:46.802:  
+2023-01-16 10:04:46.802: ERR!
+2023-01-16 10:04:46.804:  path /home/sbx_user1051
+npm ERR! errno -30
+2023-01-16 10:04:46.805: npm
+2023-01-16 10:04:46.824:  ERR! rofs EROFS: read-only file system, mkdir '/home/sbx_user1051'
+npm ERR! rofs Often virtualized file systems, or other file systems
+npm ERR! rofs that don't support symlinks, give this error.
+npm verb exit -30
+npm timing npm Completed in 736ms
+npm verb unfinished npm timer command:run 1673881486283
+npm verb code -30
+
+npm ERR! Log files were not written due to an error writing to the directory: /home/sbx_user1051/.npm/_logs
+npm ERR! You can rerun the command with `--loglevel=verbose` to see the logs in your terminal
+2023-01-16 10:04:46.860: 
+
+ERROR: Failed to run "npm run start". Start script defined in package.json:
+
+            "scripts": {
+                "start":  "npm --prefix nested run start --loglevel=silly"
+                 ...
+            
+Exited with code: 226
+200 10:04:47.664 (3.132s)
+ Response Headers
+
+{
+  "x-powered-by": "Express",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "19",
+  "etag": "W/\"13-pAP+nTXl6UA4Xdyg5L63N5A7p+I\"",
+  "date": "Mon, 16 Jan 2023 15:04:47 GMT",
+  "connection": "close"
+}

@@ -1,0 +1,113 @@
+GET/abc/def/ghi
+ Request Headers
+
+{
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.5",
+  "cache-control": "no-cache",
+  "content-length": "0",
+  "dnt": "1",
+  "host": "pleasant-lion-polo-shirt.cyclic.app",
+  "pragma": "no-cache",
+  "sec-fetch-dest": "document",
+  "sec-fetch-mode": "navigate",
+  "sec-fetch-site": "none",
+  "sec-fetch-user": "?1",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0",
+  "x-amzn-trace-id": "Root=1-63c56494-57160cb92c18b60c34c1ad42",
+  "x-forwarded-port": "443",
+  "x-forwarded-proto": "https"
+}
+
+2023-01-16 09:52:07.267: npm
+2023-01-16 09:52:07.267:  verb 
+2023-01-16 09:52:07.267: cli
+2023-01-16 09:52:07.267:  /var/lang/bin/node /var/lang/bin/npm
+2023-01-16 09:52:07.267: npm 
+2023-01-16 09:52:07.267: info using npm@8.19.2
+npm 
+2023-01-16 09:52:07.267: info 
+2023-01-16 09:52:07.268:  config:load:defaults Completed in 1ms
+npm timing config:load:file:/var/lang/lib/node_modules/npm/npmrc Completed in 1ms
+2023-01-16 09:52:07.268: using node@v18.12.1
+npm timing 
+2023-01-16 09:52:07.268: npm:load:whichnode Completed in 1ms
+npm timing
+2023-01-16 09:52:07.283: npm timing config:load:builtin Completed in 13ms
+npm timing config:load:cli Completed in 19ms
+npm timing 
+2023-01-16 09:52:07.285: config:load:env Completed in 0ms
+npm timing config:load:file:/var/task/nested/.npmrc Completed in 1ms
+npm timing config:load:project Completed in 44ms
+npm timing config:load:file:/home/sbx_user1051/.npmrc Completed in 0ms
+npm timing config:load:user Completed in 15ms
+npm timing config:load:file:/var/lang/etc/npmrc Completed in 1ms
+npm timing config:load:global Completed in 1ms
+npm timing config:load:validate Completed in 1ms
+npm timing config:load:credentials Completed in 1ms
+npm timing config:load:setEnvs Completed in 0ms
+npm timing config:load Completed in 98ms
+npm timing npm:load:configload Completed in 98ms
+npm verb cache could not create cache: Error: ENOENT: no such file or directory, mkdir '/home/sbx_user1051'
+npm timing npm:load:mkdirpcache Completed in 1ms
+npm verb logfile could not create logs-dir: Error: ENOENT: no such file or directory, mkdir '/home/sbx_user1051'
+npm timing npm:load:mkdirplogs Completed in 0ms
+npm verb title npm run start
+npm verb argv "run" "start" "--loglevel" "silly"
+npm timing npm:load:setTitle Completed in 1ms
+npm timing config:load:flatten Completed in 15ms
+npm timing npm:load:display Completed in 34ms
+npm verb logfile logs-max:10 dir:/home/sbx_user1051/.npm/_logs
+npm verb logfile could not be created: Error: ENOENT: no such file or directory, open '/home/sbx_user1051/.npm/_logs/2023-01-16T14_52_07_145Z-debug-0.log'
+2023-01-16 09:52:07.288: npm verb logfile no logfile created
+npm timing npm:load:logFile Completed in 4ms
+2023-01-16 09:52:07.288: npm timing npm:load:timers Completed in 0ms
+npm timing 
+2023-01-16 09:52:07.288: npm:load:configScope Completed in 0ms
+2023-01-16 09:52:07.304: npm timing npm:load Completed in 140ms
+2023-01-16 09:52:07.344: npm sill logfile done cleaning log files
+2023-01-16 09:52:07.471: 
+> nested@1.0.0 start
+> node index.js
+
+2023-01-16 09:52:07.684: npm verb stack Error: EROFS: read-only file system, mkdir '/home/sbx_user1051'
+npm verb cwd /var/task/nested
+npm verb Linux 4.14.255-285-225.501.amzn2.x86_64
+npm verb node v18.12.1
+npm verb npm  v8.19.2
+npm ERR! code EROFS
+npm ERR! syscall mkdir
+npm ERR! path /home/sbx_user1051
+npm ERR! errno -30
+npm ERR! rofs EROFS: read-only file system, mkdir '/home/sbx_user1051'
+npm ERR! rofs Often virtualized file systems, or other file systems
+npm ERR! rofs that don't support symlinks, give this error.
+npm verb exit -30
+npm timing npm Completed in 522ms
+npm verb unfinished npm timer command:run 1673880727309
+npm verb code -30
+
+npm ERR! Log files were not written due to an error writing to the directory: /home/sbx_user1051/.npm/_logs
+npm ERR! You can rerun the command with `--loglevel=verbose` to see the logs in your terminal
+2023-01-16 09:52:07.707: 
+
+ERROR: Failed to run "npm run start". Start script defined in package.json:
+2023-01-16 09:52:07.708: 
+            "scripts": {
+                "start":  "cd nested && npm run start --loglevel=silly"
+                 ...
+            
+Exited with code: 226
+200 09:52:08.366 (2.779s)
+ Response Headers
+
+{
+  "x-powered-by": "Express",
+  "content-type": "text/html; charset=utf-8",
+  "content-length": "19",
+  "etag": "W/\"13-pAP+nTXl6UA4Xdyg5L63N5A7p+I\"",
+  "date": "Mon, 16 Jan 2023 14:52:08 GMT",
+  "connection": "close"
+}
