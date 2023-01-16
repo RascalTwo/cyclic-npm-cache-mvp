@@ -1,0 +1,39 @@
+GET/abc/def/ghi
+ Request Headers
+
+{
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.5",
+  "cache-control": "no-cache",
+  "content-length": "0",
+  "dnt": "1",
+  "host": "pleasant-lion-polo-shirt.cyclic.app",
+  "pragma": "no-cache",
+  "sec-fetch-dest": "document",
+  "sec-fetch-mode": "navigate",
+  "sec-fetch-site": "none",
+  "sec-fetch-user": "?1",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0",
+  "x-forwarded-port": "443",
+  "x-forwarded-proto": "https"
+}
+
+2023-01-16 09:56:16.621: 
+2023-01-16 09:56:16.643: 
+
+ERROR: Failed to run "npm run start". Start script defined in package.json:
+2023-01-16 09:56:16.643: 
+            "scripts": {
+                "start":  "cd nested && npm run start --loglevel=silly"
+                 ...
+            
+Exited with code: 254
+500 09:56:23.081 (7.602s)
+ Response Headers
+
+{
+  "x-powered-by": "Express",
+  "content-type": "text/html"
+}

@@ -1,0 +1,518 @@
+GET/abc/def/ghi
+ Request Headers
+
+{
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+  "accept-encoding": "gzip, deflate, br",
+  "accept-language": "en-US,en;q=0.5",
+  "cache-control": "no-cache",
+  "content-length": "0",
+  "dnt": "1",
+  "host": "pleasant-lion-polo-shirt.cyclic.app",
+  "pragma": "no-cache",
+  "sec-fetch-dest": "document",
+  "sec-fetch-mode": "navigate",
+  "sec-fetch-site": "none",
+  "sec-fetch-user": "?1",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0",
+  "x-amzn-trace-id": "Root=1-63c56894-02a6b854547bcf1746c49633",
+  "x-forwarded-port": "443",
+  "x-forwarded-proto": "https"
+}
+
+2023-01-16 10:09:10.231: npm
+2023-01-16 10:09:10.247:  info it worked if it ends with ok
+npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:10.468: npm verb run-script [ 'prestart', 'start', 'poststart' ]
+npm info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+npm info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:10.489: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:11.148: npm
+2023-01-16 10:09:11.148:  info it worked if it ends with ok
+npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb 
+2023-01-16 10:09:11.149: cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:11.329: npm
+2023-01-16 10:09:11.329:  verb run-script [ 'prestart', 'start', 'poststart' ]
+2023-01-16 10:09:11.330: npm info lifecycle
+2023-01-16 10:09:11.330:  cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:11.330: npm info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:11.347: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:12.006: npm
+2023-01-16 10:09:12.007:  info 
+2023-01-16 10:09:12.007: it worked if it ends with ok
+npm 
+2023-01-16 10:09:12.007: verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb
+2023-01-16 10:09:12.008:  cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli
+2023-01-16 10:09:12.008:    '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+2023-01-16 10:09:12.008: npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:12.168: npm
+2023-01-16 10:09:12.169:  verb run-script [ 'prestart', 'start', 'poststart' ]
+2023-01-16 10:09:12.169: npm 
+2023-01-16 10:09:12.170: info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:12.170: npm
+2023-01-16 10:09:12.170:  info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:12.187: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:12.872: npm
+2023-01-16 10:09:12.890:  info it worked if it ends with ok
+npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:13.052: npm 
+2023-01-16 10:09:13.052: verb run-script [ 'prestart', 'start', 'poststart' ]
+2023-01-16 10:09:13.053: npm info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:13.056: npm info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:13.057: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:13.748: npm info it worked if it ends with ok
+npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:13.907: npm verb run-script [ 'prestart', 'start', 'poststart' ]
+npm info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+npm info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:13.909: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:14.628: npm info it worked if it ends with ok
+npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:14.790: npm
+2023-01-16 10:09:14.790:  verb run-script [ 'prestart', 'start', 'poststart' ]
+2023-01-16 10:09:14.806: npm info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:14.806: npm
+2023-01-16 10:09:14.807:  info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:14.810: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:15.493: npm
+2023-01-16 10:09:15.493:  
+2023-01-16 10:09:15.508: info it worked if it ends with ok
+npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:15.634: npm
+2023-01-16 10:09:15.646:  verb run-script [ 'prestart', 'start', 'poststart' ]
+2023-01-16 10:09:15.649: npm info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+npm info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:15.666: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:16.346: npm info it worked if it ends with ok
+npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:16.491: npm verb 
+2023-01-16 10:09:16.491: run-script [ 'prestart', 'start', 'poststart' ]
+2023-01-16 10:09:16.492: npm info
+2023-01-16 10:09:16.492:  lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:16.493: npm info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:16.510: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:17.228: npm info it worked if it ends with ok
+npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:17.352: npm
+2023-01-16 10:09:17.352:  verb run-script [ 'prestart', 'start', 'poststart' ]
+2023-01-16 10:09:17.367: npm info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:17.367: npm
+2023-01-16 10:09:17.367:  info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:17.371: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:18.068: npm info it worked if it ends with ok
+npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:18.212: npm 
+2023-01-16 10:09:18.212: verb run-script [ 'prestart', 'start', 'poststart' ]
+2023-01-16 10:09:18.227: npm info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+npm info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:18.230: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:18.948: npm
+2023-01-16 10:09:18.948:  
+2023-01-16 10:09:18.948: info
+2023-01-16 10:09:18.948:  
+2023-01-16 10:09:18.948: it worked if it ends with
+2023-01-16 10:09:18.949:  ok
+2023-01-16 10:09:18.949: npm
+2023-01-16 10:09:18.949:  
+2023-01-16 10:09:18.949: verb
+2023-01-16 10:09:18.949:  
+2023-01-16 10:09:18.949: cli
+2023-01-16 10:09:18.949:  [
+2023-01-16 10:09:18.949: npm
+2023-01-16 10:09:18.949:  
+2023-01-16 10:09:18.950: verb
+2023-01-16 10:09:18.950:  
+2023-01-16 10:09:18.951: cli   '/var/lang/bin/node',
+npm 
+2023-01-16 10:09:18.969: verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:19.152: npm
+2023-01-16 10:09:19.153:  verb run-script [ 'prestart', 'start', 'poststart' ]
+2023-01-16 10:09:19.153: npm info 
+2023-01-16 10:09:19.153: lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:19.169: npm info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:19.208: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:19.929: npm
+2023-01-16 10:09:19.929:  info it worked if it ends with ok
+2023-01-16 10:09:19.929: npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm 
+2023-01-16 10:09:19.930: verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+2023-01-16 10:09:19.930: npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:20.089: npm
+2023-01-16 10:09:20.089:  verb run-script [ 'prestart', 'start', 'poststart' ]
+2023-01-16 10:09:20.090: npm info 
+2023-01-16 10:09:20.090: lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:20.090: npm
+2023-01-16 10:09:20.090:  info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:20.108: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:20.809: npm info it worked if it ends with ok
+npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:20.951: npm
+2023-01-16 10:09:20.951:  verb run-script [ 'prestart', 'start', 'poststart' ]
+2023-01-16 10:09:20.952: npm info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:20.969: npm info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:20.970: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:21.673: npm
+2023-01-16 10:09:21.673:  
+2023-01-16 10:09:21.686: info it worked if it ends with ok
+2023-01-16 10:09:21.690: npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:21.848: npm verb run-script [ 'prestart', 'start', 'poststart' ]
+npm info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:21.849: npm
+2023-01-16 10:09:21.849:  
+2023-01-16 10:09:21.849: info
+2023-01-16 10:09:21.849:  
+2023-01-16 10:09:21.850: lifecycle
+2023-01-16 10:09:21.850:  cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:21.869: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:22.549: npm info it worked if it ends with ok
+npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:22.689: npm
+2023-01-16 10:09:22.689:  verb run-script [ 'prestart', 'start', 'poststart' ]
+2023-01-16 10:09:22.690: npm 
+2023-01-16 10:09:22.690: info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:22.690: npm
+2023-01-16 10:09:22.690:  info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:22.708: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:23.366: npm info it worked if it ends with ok
+npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:23.509: npm verb run-script [ 'prestart', 'start', 'poststart' ]
+npm info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+npm info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:23.526: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:24.169: npm
+2023-01-16 10:09:24.169:  info it worked if it ends with ok
+2023-01-16 10:09:24.186: npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:24.326: npm verb run-script [ 'prestart', 'start', 'poststart' ]
+npm info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:24.327: npm info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:24.331: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:25.027: npm
+2023-01-16 10:09:25.027:  info it worked if it ends with ok
+2023-01-16 10:09:25.027: npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb
+2023-01-16 10:09:25.027:  cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb
+2023-01-16 10:09:25.027:  cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:25.187: npm verb run-script [ 'prestart', 'start', 'poststart' ]
+2023-01-16 10:09:25.188: npm 
+2023-01-16 10:09:25.188: info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:25.188: npm
+2023-01-16 10:09:25.188:  info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:25.192: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:25.914: npm
+2023-01-16 10:09:25.914:  info it worked if it ends with ok
+npm 
+2023-01-16 10:09:25.927: verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:26.071: npm verb run-script [ 'prestart', 'start', 'poststart' ]
+2023-01-16 10:09:26.071: npm 
+2023-01-16 10:09:26.071: info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:26.086: npm info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:26.091: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:26.847: npm info it worked if it ends with ok
+npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:26.986: npm verb run-script [ 'prestart', 'start', 'poststart' ]
+npm info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:26.987: npm info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:26.991: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:27.690: npm
+2023-01-16 10:09:27.690:  info it worked if it ends with ok
+npm 
+2023-01-16 10:09:27.709: verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:27.852: npm
+2023-01-16 10:09:27.852:  verb run-script [ 'prestart', 'start', 'poststart' ]
+2023-01-16 10:09:27.853: npm 
+2023-01-16 10:09:27.853: info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:27.869: npm info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:27.870: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:28.586: npm
+2023-01-16 10:09:28.607:  info it worked if it ends with ok
+npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:28.728: npm verb run-script [ 'prestart', 'start', 'poststart' ]
+npm info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+npm info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:28.746: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+2023-01-16 10:09:29.449: npm info it worked if it ends with ok
+npm verb cli [
+npm verb cli   '/var/lang/bin/node',
+npm verb cli   '/var/lang/bin/npm',
+npm verb cli   'run',
+npm verb cli   'start',
+npm verb cli   '--workspace=nested',
+npm verb cli   '--loglevel=silly'
+npm verb cli ]
+npm info using npm@6.14.17
+npm info using node@v14.20.0
+2023-01-16 10:09:29.607: npm
+2023-01-16 10:09:29.607:  verb run-script [ 'prestart', 'start', 'poststart' ]
+2023-01-16 10:09:29.608: npm info lifecycle cyclic-npm-cache-mvp@1.0.0~prestart: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:29.608: npm
+2023-01-16 10:09:29.608:  info lifecycle cyclic-npm-cache-mvp@1.0.0~start: cyclic-npm-cache-mvp@1.0.0
+2023-01-16 10:09:29.626: 
+> cyclic-npm-cache-mvp@1.0.0 start /var/task
+> npm run start --workspace=nested --loglevel=silly
+
+500 10:09:29.847 (20.468s)
+ Response Headers
+
+{
+  "x-powered-by": "Express",
+  "content-type": "text/html"
+}
